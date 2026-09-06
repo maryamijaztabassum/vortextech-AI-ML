@@ -92,7 +92,7 @@ The analysis demonstrates how data visualization and descriptive statistics can 
 ```bash
 pip install pandas matplotlib seaborn jupyter
 
-vortextech-aiml-week1/
+week 1
 │
 ├── data_cleaning.ipynb
 ├── student_dropout_behavior_dataset-selected-columns.csv
