@@ -137,8 +137,3 @@ Through this project, I practiced:
 - Cluster visualization
 - Real-world cluster interpretation
 
-## Internship
-
-**Vortex Tech AI & ML Internship Program 2026**
-
-**Week 3: Regression and Clustering on Real Data**
